@@ -1,4 +1,4 @@
-cawleeb.com
+cawleeb
 # Fending off the foes
 
 ### [Solving the information psychosis problem]()
